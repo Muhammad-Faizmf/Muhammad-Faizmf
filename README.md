@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 *   **AI Integration:** I love adding smart features to apps. I work with **Large Language Models (LLMs)**, set up **RAG (Retrieval-Augmented Generation)** to give AI context, and build integrations using **Google Gemini** and **OpenAI**.
 *   **Backend & APIs:** I hook everything up under the hood using **Firebase** (Auth, Firestore, Cloud Functions), handle live notifications, and connect custom **REST APIs**.
 *   **Payments & Subs:** I have hands-on experience setting up paywalls and subscriptions with **RevenueCat**, plus processing payments via **Stripe** (including Tap to Pay).
-*   **Deployments & Smart Tech:** I handle the messy stuff like **Xcode, TestFlight**, and launching on the App Store and Google Play, as well as casting to **Google Cast** and **Alexa**.
+*   **Deployments & Smart Tech:** I handle the messy stuff like **Xcode, TestFlight**, and launching on the App Store and Google Play, as well as casting to **Google Cast**.
 
 ---
 
