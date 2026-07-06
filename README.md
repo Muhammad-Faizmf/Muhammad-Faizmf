@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 *   **Cross-Platform Apps:** I spend most of my time writing **Flutter & Dart** code to build clean, fast apps for Android, iOS, and the web from a single codebase.
 *   **AI Integration:** I love adding smart features to apps. I work with **Large Language Models (LLMs)**, set up **RAG (Retrieval-Augmented Generation)** to give AI context, and build integrations using **Google Gemini** and **OpenAI**.
@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 
 ---
 
-## 🛠️ My Toolkit
+## My Toolkit
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 
 ---
 
-## 📫 Let's Chat!
+## Let's Chat!
 
 I’m always up for working on cool projects, brainstorming new ideas, or just chatting about where tech is heading. 
 
