@@ -31,6 +31,6 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 I’m always up for working on cool projects, brainstorming new ideas, or just chatting about where tech is heading. 
 
 *   **Drop me an email:** [faizanmushtaq3@gmail.com](mailto:faizanmushtaq3@gmail.com)
-*   **Find me on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-775814214)
+*   **Find me on LinkedIn:** [(https://www.linkedin.com/in/muhammad-faizan-775814214)](LinkedIn)
 
 Let's build something awesome together! 💻✨
