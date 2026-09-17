@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad Faizan! 👋
 
-Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile apps that people actually enjoy using. I focus on crafting smooth user interfaces, keeping backends fast and secure, and figuring out how to bring the latest AI tools straight to your phone.
+Welcome to my GitHub! I’m a **Software Developer** who loves building mobile apps that people actually enjoy using. I focus on crafting smooth user interfaces, keeping backends fast and secure, and figuring out how to bring the latest AI tools straight to your phone.
 
 ---
 
