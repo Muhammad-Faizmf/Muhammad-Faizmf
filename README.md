@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a **Software Engineer** who loves building mobile ap
 | :--- | :--- |
 | **Languages & Frameworks** | Dart, Flutter, Python, JavaScript / Node.js |
 | **AI & Agent Orchestration** | LangChain, LangGraph, LangSmith, Google Gemini, OpenAI, Claude, RAG |
-| **Backend & Data** | Firebase (Firestore, Auth, Analytics), PostgreSQL, MongoDB, SQL, NoSQL |
+| **Backend & Data** | Firebase, PostgreSQL, MongoDB, SQL, NoSQL |
 | **Payments** | Stripe API, RevenueCat, In-App Purchases |
 | **Shipping Apps** | App Store Connect, TestFlight, Xcode, Google Play Console, Git |
 
